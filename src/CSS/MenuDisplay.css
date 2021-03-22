@@ -48,3 +48,29 @@
     transform: none;
     visibility: visible;
   }
+
+
+@media screen and (max-device-width: 800px) {
+.menuFirst {
+      display:inline-block;
+
+}
+
+.menuSecond {
+    color: white;
+    display: inline-block;
+    position: absolute;
+    font-size: 3rem;
+}
+
+.menuImages {
+    width: 140vh;
+    height: 200vh;
+    padding-bottom: 2rem;
+}
+
+#firstTitle {   margin: -165rem 0 0 13rem;  }
+#secondTitle {  margin: 65rem 0 0 13rem; }
+#thirdTitle {   margin: 65rem 0 0 13rem; }
+
+}

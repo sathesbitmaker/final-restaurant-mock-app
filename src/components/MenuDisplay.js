@@ -29,10 +29,9 @@ function MenuDisplay(props) {
             <div 
             className={`menuSecond ${isVisible ? 'is-visible' : ''}`}
             ref={domRef}>
-                <h1 className="menuTitles" 
-                id="firstTitle"> DINNER <br/> MENU</h1>
-                <h1 className="menuTitles"> DRINKS  <br/> MENU</h1>
-                <h1 className="menuTitles"> DESSERT <br/> MENU</h1>
+                <h1 className="menuTitles" id="firstTitle"> DINNER <br/> MENU</h1>
+                <h1 className="menuTitles" id="secondTitle"> DRINKS  <br/> MENU</h1>
+                <h1 className="menuTitles" id="thirdTitle"> DESSERT <br/> MENU</h1>
             </div>
         </div>
     )

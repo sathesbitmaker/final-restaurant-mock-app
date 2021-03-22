@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/restaurant-mock-app/static/css/main.e89a1b9e.chunk.css",
+    "main.js": "/restaurant-mock-app/static/js/main.caec1419.chunk.js",
+    "main.js.map": "/restaurant-mock-app/static/js/main.caec1419.chunk.js.map",
+    "runtime-main.js": "/restaurant-mock-app/static/js/runtime-main.51dcca18.js",
+    "runtime-main.js.map": "/restaurant-mock-app/static/js/runtime-main.51dcca18.js.map",
+    "static/js/2.8a10b213.chunk.js": "/restaurant-mock-app/static/js/2.8a10b213.chunk.js",
+    "static/js/2.8a10b213.chunk.js.map": "/restaurant-mock-app/static/js/2.8a10b213.chunk.js.map",
+    "static/js/3.ed6dc06e.chunk.js": "/restaurant-mock-app/static/js/3.ed6dc06e.chunk.js",
+    "static/js/3.ed6dc06e.chunk.js.map": "/restaurant-mock-app/static/js/3.ed6dc06e.chunk.js.map",
+    "index.html": "/restaurant-mock-app/index.html",
+    "static/css/main.e89a1b9e.chunk.css.map": "/restaurant-mock-app/static/css/main.e89a1b9e.chunk.css.map",
+    "static/js/2.8a10b213.chunk.js.LICENSE.txt": "/restaurant-mock-app/static/js/2.8a10b213.chunk.js.LICENSE.txt",
+    "static/media/beerImage1.4dbb6ec5.jpg": "/restaurant-mock-app/static/media/beerImage1.4dbb6ec5.jpg",
+    "static/media/beerImage2.31af5ed4.jpg": "/restaurant-mock-app/static/media/beerImage2.31af5ed4.jpg",
+    "static/media/beerImage3.98ba820f.jpg": "/restaurant-mock-app/static/media/beerImage3.98ba820f.jpg",
+    "static/media/beerImage4.45e6d87c.jpg": "/restaurant-mock-app/static/media/beerImage4.45e6d87c.jpg",
+    "static/media/blueImageDiv.7e772867.jpg": "/restaurant-mock-app/static/media/blueImageDiv.7e772867.jpg",
+    "static/media/foodImage.f462cabe.jpeg": "/restaurant-mock-app/static/media/foodImage.f462cabe.jpeg",
+    "static/media/menuDisplay1.4e21cf32.jpeg": "/restaurant-mock-app/static/media/menuDisplay1.4e21cf32.jpeg",
+    "static/media/menuDisplay2.e4564693.jpeg": "/restaurant-mock-app/static/media/menuDisplay2.e4564693.jpeg",
+    "static/media/menuDisplay3.97fbaa87.jpeg": "/restaurant-mock-app/static/media/menuDisplay3.97fbaa87.jpeg",
+    "static/media/menuDisplay4.87c617df.jpeg": "/restaurant-mock-app/static/media/menuDisplay4.87c617df.jpeg",
+    "static/media/menuDisplay5.4507f1bb.jpeg": "/restaurant-mock-app/static/media/menuDisplay5.4507f1bb.jpeg",
+    "static/media/Intro.css": "/restaurant-mock-app/static/media/restaurantIntro.3e90604e.jpeg",
+    "static/media/restaurantLogo.f0bd21c4.jpg": "/restaurant-mock-app/static/media/restaurantLogo.f0bd21c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51dcca18.js",
+    "static/js/2.8a10b213.chunk.js",
+    "static/css/main.e89a1b9e.chunk.css",
+    "static/js/main.caec1419.chunk.js"
+  ]
+}
