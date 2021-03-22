@@ -1,0 +1,36 @@
+.all {
+  margin: 4rem 0 0 3.9rem;
+  color: white;
+  font-family: 'Arvo', serif;
+  font-size: 7rem;
+  animation-name: intromove;
+  animation-duration: 2s;
+}
+
+#second {
+  margin: 0.5rem 0 0 3.9rem;
+  font-size: 4rem;
+}
+
+#third {
+  margin: 0.2rem 0 0 4.3rem;
+  font-size: 3.5rem;
+}
+
+#fourth {
+  margin: 0 0 25rem 4.3rem;
+  font-size: 3.5rem;
+}
+
+body {
+  background-image: url(../images/restaurantIntro.jpeg);
+  background-repeat: no-repeat;
+  margin: 0;
+  background-size: 95rem;
+  transition-duration: 2s;
+}
+
+@keyframes intromove {
+  from {transform: translateX(-30rem)}
+  to { transform: translateX()}
+}

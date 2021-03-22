@@ -1,0 +1,13 @@
+.restaurantLogo {
+    height: 20vh;
+    width: 20vh;
+    margin-bottom: 2rem;
+}
+
+.bottom {
+    font-size: 0.8rem;
+    padding: 7rem 0 4rem 10rem;
+    color: white;
+    background-color: #242322;
+    text-align: left;
+}
