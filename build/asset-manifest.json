@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/final-restaurant-mock-app/static/css/main.5b6c9a7b.chunk.css",
+    "main.css": "/final-restaurant-mock-app/static/css/main.9cdef916.chunk.css",
     "main.js": "/final-restaurant-mock-app/static/js/main.2eebcc8f.chunk.js",
     "main.js.map": "/final-restaurant-mock-app/static/js/main.2eebcc8f.chunk.js.map",
     "runtime-main.js": "/final-restaurant-mock-app/static/js/runtime-main.3f40e4e5.js",
@@ -10,7 +10,7 @@
     "static/js/3.dc5ac2ca.chunk.js": "/final-restaurant-mock-app/static/js/3.dc5ac2ca.chunk.js",
     "static/js/3.dc5ac2ca.chunk.js.map": "/final-restaurant-mock-app/static/js/3.dc5ac2ca.chunk.js.map",
     "index.html": "/final-restaurant-mock-app/index.html",
-    "static/css/main.5b6c9a7b.chunk.css.map": "/final-restaurant-mock-app/static/css/main.5b6c9a7b.chunk.css.map",
+    "static/css/main.9cdef916.chunk.css.map": "/final-restaurant-mock-app/static/css/main.9cdef916.chunk.css.map",
     "static/js/2.ebb4618b.chunk.js.LICENSE.txt": "/final-restaurant-mock-app/static/js/2.ebb4618b.chunk.js.LICENSE.txt",
     "static/media/beerImage1.4dbb6ec5.jpg": "/final-restaurant-mock-app/static/media/beerImage1.4dbb6ec5.jpg",
     "static/media/beerImage2.31af5ed4.jpg": "/final-restaurant-mock-app/static/media/beerImage2.31af5ed4.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.3f40e4e5.js",
     "static/js/2.ebb4618b.chunk.js",
-    "static/css/main.5b6c9a7b.chunk.css",
+    "static/css/main.9cdef916.chunk.css",
     "static/js/main.2eebcc8f.chunk.js"
   ]
 }
