@@ -16,11 +16,12 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://sathesbitmaker.github.io/final-restaurant-mock-app/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sathesbitmaker/final-restaurant-mock-app.git"
@@ -31,7 +32,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://sathesbitmaker.github.io/final-restaurant-mock-app/",
   "browserslist": {
     "production": [
       ">0.2%",
