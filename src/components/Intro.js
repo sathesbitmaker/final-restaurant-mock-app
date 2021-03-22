@@ -11,7 +11,3 @@ function Intro() {
     )};
     
     export default Intro;
-
-window.onload = function() {
-    document.body.style.backgroundSize = "85rem";
-}

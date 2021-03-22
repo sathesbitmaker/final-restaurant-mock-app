@@ -34,3 +34,39 @@ body {
   from {transform: translateX(-30rem)}
   to { transform: translateX()}
 }
+
+/* MOBILE SCREEN CSS  */
+
+@media screen and (max-device-width: 800px) {
+  body {
+    background-size: 160rem;
+  }
+  .all {
+    margin: 35rem 0 0 0;
+    width: 60rem;
+    text-align: center;
+    font-size: 7rem;
+  }
+
+  #second {
+    margin: 0;
+    font-size: 5rem;
+  }
+  
+  #third {
+    margin: 0;
+    font-size: 5rem;
+  }
+  
+  #fourth {
+    margin: 0;
+    font-size: 5rem;
+    padding-bottom: 42rem;
+  }
+}
+
+
+
+
+
+/* @media screen and (min-width:1300px) and (max-width:1600px) { */

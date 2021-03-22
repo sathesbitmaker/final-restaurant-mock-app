@@ -20,8 +20,8 @@ function OurMission(props) {
               className={`OurMissionDescription ${isVisible ? 'is-visible' : ''}`}
               ref={domRef}
         >
-             <h1>Our Mission</h1>
-             <p>Top Notch cuisine provides amazing food with style, grace and refinement. 
+             <h1 id="OurMissionTitle">Our Mission</h1>
+             <p id="OurMissionParagraph">Top Notch cuisine provides amazing food with style, grace and refinement. 
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id nibh 
                 fermentum, accumsan metus quis, iaculis massa. Donec rhoncus id ligula ut 
                 mattis. Phasellus quis purus ac eros vestibulum ultrices id quis nisi. Vivamus
