@@ -1,5 +1,6 @@
 {
   "name": "final-restaurant-mock-app",
+  "homepage":"https://sathesbitmaker.github.io/final-restaurant-mock-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
