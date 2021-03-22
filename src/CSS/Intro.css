@@ -40,26 +40,27 @@ body {
 @media screen and (max-device-width: 800px) {
   body {
     background-size: 160rem;
+    overflow-x: hidden;;
   }
   .all {
-    margin: 35rem 0 0 0;
+    margin: 35rem 0 0 -5rem;
     width: 60rem;
     text-align: center;
-    font-size: 7rem;
+    font-size: 5rem;
   }
 
   #second {
-    margin: 0;
+    margin: 0 0 0 -5rem;
     font-size: 5rem;
   }
   
   #third {
-    margin: 0;
+    margin: 0 0 0 -5rem;
     font-size: 5rem;
   }
   
   #fourth {
-    margin: 0;
+    margin: 0 0 0 -5rem;
     font-size: 5rem;
     padding-bottom: 42rem;
   }

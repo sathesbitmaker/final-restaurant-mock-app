@@ -36,6 +36,11 @@
 
 @media screen and (max-device-width: 800px) {
 
+    .OurMissionWhole {
+        width: 150vh;        
+        overflow: hidden;;
+    }
+
     .OurMissionImage {
         height: 200vh;
         width: 280%
@@ -47,11 +52,12 @@
     }
 
     .OurMissionDescription {
-        margin-left: 5rem;
+        margin-left: 2rem;
     }
 
     #OurMissionParagraph {
-        font-size: 2.2rem;
+        font-size: 2rem;
+        width: 110vh;
     }
 
 }

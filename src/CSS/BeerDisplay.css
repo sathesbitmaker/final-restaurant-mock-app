@@ -29,7 +29,7 @@
 
 @media screen and (max-device-width: 800px) {
     #beerTitle {
-        width: 270%;
+        width: 200%;
     }
 
     .beerDisplay {
@@ -37,9 +37,9 @@
     }
 
     .beerImages {
-        height: 195vh;
-        width: 145vh;
-        margin: 4rem 0 0 3rem;
+        height: 160vh;
+        width: 110vh;
+        margin: 4rem 0 0 1.8rem;
     }
 
 }
