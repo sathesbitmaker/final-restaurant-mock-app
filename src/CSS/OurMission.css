@@ -61,3 +61,12 @@
     }
 
 }
+
+@media screen and (min-width:1400px) and (max-width:2000px) {
+
+    #OurMissionParagraph {
+        width: 150%;
+        font-size: 2rem;
+    }
+
+}

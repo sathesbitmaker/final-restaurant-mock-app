@@ -51,7 +51,6 @@
 
 
 @media screen and (max-device-width: 800px) {
-
 .menuFirst {
       display:inline-block;
 
@@ -75,5 +74,32 @@
 #firstTitle {   margin: -158rem 0 0 9rem;  }
 #secondTitle {  margin: 65rem 0 0 9rem; }
 #thirdTitle {   margin: 50rem 0 0 9rem; }
+
+}
+
+
+@media screen and (min-width:1300px) and (max-width:1500px) {
+    .menuImages {
+        width: 50vh;
+        height: 80vh;
+    }
+}
+
+@media screen and (min-width:1400px) and (max-width:2000px) {
+    .menuFirst {
+        grid-template-columns: 33% 33% 33%;
+    }
+
+    .menuSecond {
+        grid-template-columns: 33% 33% 33%;
+    }
+    
+    .wholeMenu {
+        opacity: 0;
+        transform: none;
+        visibility:unset;
+        transition: none;
+        will-change: none;
+    }
 
 }
