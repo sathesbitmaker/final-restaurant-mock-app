@@ -26,3 +26,20 @@
     height: 65vh;
     width: 45vh;
 }
+
+@media screen and (max-device-width: 800px) {
+    #beerTitle {
+        width: 270%;
+    }
+
+    .beerDisplay {
+        display: inline-block;
+    }
+
+    .beerImages {
+        height: 195vh;
+        width: 145vh;
+        margin: 4rem 0 0 3rem;
+    }
+
+}
