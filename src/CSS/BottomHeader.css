@@ -11,3 +11,11 @@
     background-color: #242322;
     text-align: left;
 }
+
+@media screen and (max-device-width: 800px) {
+    .bottom {
+        width: 200%;
+        font-size: 1.3rem;
+    }
+
+}
