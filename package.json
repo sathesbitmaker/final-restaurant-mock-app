@@ -1,5 +1,5 @@
 {
-  "name": "restaurant-mock-app",
+  "name": "final-restaurant-mock-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sathesbitmaker/restaurant-mock-app.git"
+    "url": "git+https://github.com/sathesbitmaker/final-restaurant-mock-app.git"
   },
   "eslintConfig": {
     "extends": [
@@ -29,7 +29,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://sathesbitmaker.github.io/restaurant-mock-app/",
+  "homepage": "https://sathesbitmaker.github.io/final-restaurant-mock-app/",
   "browserslist": {
     "production": [
       ">0.2%",
